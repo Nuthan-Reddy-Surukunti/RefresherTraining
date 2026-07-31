@@ -1,0 +1,15 @@
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/bin/Debug/net10.0/Day2
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/bin/Debug/net10.0/Day2.deps.json
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/bin/Debug/net10.0/Day2.runtimeconfig.json
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/bin/Debug/net10.0/Day2.dll
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/bin/Debug/net10.0/Day2.pdb
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.AssemblyInfoInputs.cache
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.AssemblyInfo.cs
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.csproj.CoreCompileInputs.cache
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.sourcelink.json
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.dll
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/refint/Day2.dll
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.pdb
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/Day2.genruntimeconfig.cache
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/RefresherTraining/Day2Assessment/Day2/obj/Debug/net10.0/ref/Day2.dll
