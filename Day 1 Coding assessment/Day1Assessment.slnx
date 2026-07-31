@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Day1Assessment/Day1Assessment.csproj" />
+  <Project Path="Day1Assessment/H1Question/H1Question.csproj" />
+  <Project Path="Day1Assessment/H2Question/H2Question.csproj" />
+  <Project Path="Day2Assessment/Day2/Day2.csproj" />
+</Solution>

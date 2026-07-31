@@ -1,0 +1,15 @@
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/bin/Debug/net10.0/H2Question
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/bin/Debug/net10.0/H2Question.deps.json
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/bin/Debug/net10.0/H2Question.runtimeconfig.json
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/bin/Debug/net10.0/H2Question.dll
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/bin/Debug/net10.0/H2Question.pdb
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.AssemblyInfoInputs.cache
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.AssemblyInfo.cs
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.csproj.CoreCompileInputs.cache
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.sourcelink.json
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.dll
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/refint/H2Question.dll
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.pdb
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/H2Question.genruntimeconfig.cache
+/Users/nuthanreddysurukunti/Documents/Learning files/Dotnet Files/20 Days Training/Day 1 Coding assessment/H2Question/obj/Debug/net10.0/ref/H2Question.dll
